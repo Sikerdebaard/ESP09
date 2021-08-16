@@ -1,0 +1,6 @@
+venv/*
+activate
+data/*
+.ipynb_checkpoints
+*.swo
+*.swp
